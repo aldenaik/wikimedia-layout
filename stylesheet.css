@@ -9,12 +9,6 @@ body{
 	margin: 0 auto;
 }
 
-
-
-
-
-
-
 .content{
 	width:80%;
 	height: 30%;
@@ -33,6 +27,7 @@ bottom:5px;
 
 p {
 	text-align:center;
+	text-align: justify; /*added justification*/
 }
 
 section {
